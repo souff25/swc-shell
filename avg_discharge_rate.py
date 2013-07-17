@@ -1,4 +1,4 @@
-"""Determine the average discharge rate of each station in a data file
+"""Determine the average discharge rates of each station in a data file
 
 Input file format:
 
