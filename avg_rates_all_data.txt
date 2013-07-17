@@ -1,0 +1,2 @@
+data_drycreek_2013.txt  A 3.0
+data_littlebearriver_2013.txt  A 232.333333333
